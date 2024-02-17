@@ -1,0 +1,24 @@
+@media screen and (max-width: 480px) {
+    #card{
+        padding:4px;
+        width:170px;
+        font-size:14px;
+    }
+    #card_img{
+        width:97%;
+        height:160px;
+        /* border:2px solid red;  */
+    }
+    .card-child{
+        margin-bottom:2px;
+        /* color:red; */
+    }
+    
+}  
+@media screen and (max-width: 366px) {
+    #card{
+        padding:2px;
+        width:158px;
+    }
+    
+}
